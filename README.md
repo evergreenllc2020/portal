@@ -1,2 +1,2 @@
 # portal.greenheritage.io
-Green Heritage LLC website
+Green Heritage LLC portal
